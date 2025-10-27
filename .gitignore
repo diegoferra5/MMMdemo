@@ -1,0 +1,9 @@
+# .gitignore
+# Ignore data and environment
+data/
+.conda/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
