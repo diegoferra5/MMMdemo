@@ -10,5 +10,5 @@ This project analyzes sales and marketing performance for Heineken using Python 
 ## ⚙️ Environment
 To recreate the environment:
 ```bash
-conda env create -f environment.yml
+conda env create -f enviroment.yml
 conda activate heineken_mmm
