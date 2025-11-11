@@ -1,4 +1,4 @@
-# Heineken Data Science Project 🍺
+# Data Science Project MMM
 
 This project analyzes sales and marketing performance for Heineken using Python and data science tools.
 
